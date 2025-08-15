@@ -9,7 +9,7 @@ class Solution:
         return n == 1
 
 obj=Solution()
-print(obj.isPowerOfFour(5))
+print(obj.isPowerOfFour(16))
 print(obj.isPowerOfFour(-2113348))
 print(obj.isPowerOfFour(1))
-print(obj.isPowerOfFour(125))
+print(obj.isPowerOfFour(48))
